@@ -22,7 +22,7 @@
   
     technologies: {
      JavaScript:     ["Vue"];
-     Java:           ["SpringBoot"];
+     Java:           ["Spring Boot"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
