@@ -22,7 +22,7 @@
   
     technologies: {
      JavaScript:     ["Vue"];
-     Java:           ["Spring Boot"];
+     C#:             [".NET"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
