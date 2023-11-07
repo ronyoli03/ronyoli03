@@ -1,7 +1,7 @@
 
     (Software Developer)
 
-   <img src="https://pa1.narvii.com/6388/9d34d2443d8b37ceeade0d6555f01801a95b39b1_hq.gif" />
+   <img src="https://th.bing.com/th/id/OIP.bQRPV9cwY1bj4FxP7WQG4QHaFm?pid=ImgDet&w=158&h=79&c=7&dpr=1,5" />
 
 
     class Ronaldo extends Human {
